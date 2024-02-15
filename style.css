@@ -1,0 +1,72 @@
+.title-background{
+    background: linear-gradient(300deg, #00bfff, #614cff, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+
+
+}
+.pro{
+    text-decoration: underline;
+}
+h1{
+
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+    margin: auto;
+
+}
+.middle-container{
+    margin:50px 0 ;
+   
+}
+div{
+    display:block
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+  }
+
+  
+
+h2{
+    
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    text-align: center;
+    margin: auto;
+    color: #ef8172;
+  
+}
+.intro{
+text-align: center;
+    margin: auto;
+}
+hr{
+    border: dotted #ef8172 6px;
+    border-bottom: none;
+    width: 2%;
+    margin: 100px auto;
+}
+.bottom-container {
+    background-color: #ef8172;
+    padding: 50px 0 20px;
+}
+body {
+    color: #000000;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+/* var yearsRemaining = 90 - age;
+    var days=yearsRemaining*365;
+    var weeks=yearsRemaining*52;
+    var months=yearsRemaining*12;
+    
+    console.log("You have " + days + " days, " + weeks + " weeks,and " + months + " months left."); */
+    
